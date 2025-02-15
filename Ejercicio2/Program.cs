@@ -10,7 +10,3 @@ Console.WriteLine("Suma de los dos enteros: " + (num1 + num2));
 Console.WriteLine("Multiplicación del double por un int: " + (numDouble * num1));
 Console.WriteLine("Concatenación del char con un string: " + caracter + texto);
 
-Console.WriteLine("El Ing Daro es muy feo.");
-
-
-Console.WriteLine("El ejerecicio 2 pide que diga eso pero para mi el Ing Daro es una muy linda persona.");
